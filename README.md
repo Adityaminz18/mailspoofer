@@ -7,5 +7,5 @@ You need to create SMTP credentials from https://smtp2go.com and paste on inside
 # How to Add Sender's Name. 
 While giving input for sender's mail. 
 
-Input as this format *Name <sender's mail>*
+Input as this format **Name <sender's mail>**
 
