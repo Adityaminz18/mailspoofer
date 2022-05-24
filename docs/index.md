@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# MailSpoofer
+This Tool is used to Spoof Email. 
 
-You can use the [editor on GitHub](https://github.com/Adityaminz18/mailspoofer/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# SMTP2GO
+You need to create and use SMTP credentials from https://smtp2go.com and paste on inside the code on Line 11.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# How to Add Sender's Name?
+While giving input for sender's mail. 
 
-### Markdown
+Input as this format **Name <sender's mail>**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adityaminz18/mailspoofer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
